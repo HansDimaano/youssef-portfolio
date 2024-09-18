@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.aa4f732f.css",
-    "main.js": "/youssef-portfolio/static/js/main.a7593197.js",
+    "main.css": "/youssef-portfolio/static/css/main.57d36db0.css",
+    "main.js": "/youssef-portfolio/static/js/main.cbf823c7.js",
     "static/js/453.1407b060.chunk.js": "/youssef-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/header (2).png": "/youssef-portfolio/static/media/header (2).0665efbb7e7c30323ba3.png",
     "static/media/section_2.png": "/youssef-portfolio/static/media/section_2.b352f771bf9ad7bf6835.png",
@@ -10,13 +10,16 @@
     "static/media/section_4.png": "/youssef-portfolio/static/media/section_4.e7c9cd0959310121abf8.png",
     "static/media/section_6.png": "/youssef-portfolio/static/media/section_6.bd192d014c1dd7750c6d.png",
     "static/media/section_1.png": "/youssef-portfolio/static/media/section_1.9f3bc11201681c93cfbe.png",
+    "static/media/gr9.png": "/youssef-portfolio/static/media/gr9.b1ad392a15034df10ee1.png",
+    "static/media/gr11.png": "/youssef-portfolio/static/media/gr11.b569007b77d7deda72eb.png",
+    "static/media/gr10.png": "/youssef-portfolio/static/media/gr10.d7d94b278492e32e2f1f.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.aa4f732f.css.map": "/youssef-portfolio/static/css/main.aa4f732f.css.map",
-    "main.a7593197.js.map": "/youssef-portfolio/static/js/main.a7593197.js.map",
+    "main.57d36db0.css.map": "/youssef-portfolio/static/css/main.57d36db0.css.map",
+    "main.cbf823c7.js.map": "/youssef-portfolio/static/js/main.cbf823c7.js.map",
     "453.1407b060.chunk.js.map": "/youssef-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa4f732f.css",
-    "static/js/main.a7593197.js"
+    "static/css/main.57d36db0.css",
+    "static/js/main.cbf823c7.js"
   ]
 }
