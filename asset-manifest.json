@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.4742a1a9.css",
-    "main.js": "/youssef-portfolio/static/js/main.24a4e1e4.js",
+    "main.css": "/youssef-portfolio/static/css/main.5ca00d8e.css",
+    "main.js": "/youssef-portfolio/static/js/main.0583145a.js",
     "static/js/453.1407b060.chunk.js": "/youssef-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/header (2).png": "/youssef-portfolio/static/media/header (2).0665efbb7e7c30323ba3.png",
     "static/media/section_2.png": "/youssef-portfolio/static/media/section_2.b352f771bf9ad7bf6835.png",
@@ -14,12 +14,12 @@
     "static/media/gr11.png": "/youssef-portfolio/static/media/gr11.b569007b77d7deda72eb.png",
     "static/media/gr10.png": "/youssef-portfolio/static/media/gr10.d7d94b278492e32e2f1f.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.4742a1a9.css.map": "/youssef-portfolio/static/css/main.4742a1a9.css.map",
-    "main.24a4e1e4.js.map": "/youssef-portfolio/static/js/main.24a4e1e4.js.map",
+    "main.5ca00d8e.css.map": "/youssef-portfolio/static/css/main.5ca00d8e.css.map",
+    "main.0583145a.js.map": "/youssef-portfolio/static/js/main.0583145a.js.map",
     "453.1407b060.chunk.js.map": "/youssef-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4742a1a9.css",
-    "static/js/main.24a4e1e4.js"
+    "static/css/main.5ca00d8e.css",
+    "static/js/main.0583145a.js"
   ]
 }
