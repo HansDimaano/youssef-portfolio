@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.2a7bb47c.css",
+    "main.css": "/youssef-portfolio/static/css/main.49facd99.css",
     "main.js": "/youssef-portfolio/static/js/main.20b32bfd.js",
     "static/js/453.1407b060.chunk.js": "/youssef-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/header (2).png": "/youssef-portfolio/static/media/header (2).0665efbb7e7c30323ba3.png",
@@ -17,12 +17,12 @@
     "static/media/gr11.png": "/youssef-portfolio/static/media/gr11.b569007b77d7deda72eb.png",
     "static/media/gr10.png": "/youssef-portfolio/static/media/gr10.d7d94b278492e32e2f1f.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.2a7bb47c.css.map": "/youssef-portfolio/static/css/main.2a7bb47c.css.map",
+    "main.49facd99.css.map": "/youssef-portfolio/static/css/main.49facd99.css.map",
     "main.20b32bfd.js.map": "/youssef-portfolio/static/js/main.20b32bfd.js.map",
     "453.1407b060.chunk.js.map": "/youssef-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a7bb47c.css",
+    "static/css/main.49facd99.css",
     "static/js/main.20b32bfd.js"
   ]
 }
