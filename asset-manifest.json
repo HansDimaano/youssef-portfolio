@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.9568f3c6.css",
-    "main.js": "/youssef-portfolio/static/js/main.33bf3486.js",
+    "main.css": "/youssef-portfolio/static/css/main.51ec2210.css",
+    "main.js": "/youssef-portfolio/static/js/main.939f5e8a.js",
     "static/js/453.1407b060.chunk.js": "/youssef-portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/header (2).png": "/youssef-portfolio/static/media/header (2).0665efbb7e7c30323ba3.png",
+    "static/media/header.png": "/youssef-portfolio/static/media/header.1c6dff33adcf64fd1671.png",
     "static/media/Youssef Erfan Hassan - Grade 11 Transcript.pdf": "/youssef-portfolio/static/media/Youssef Erfan Hassan - Grade 11 Transcript.18052cee0c7112e1a008.pdf",
     "static/media/gcse.jpg": "/youssef-portfolio/static/media/gcse.201734e4ad775012b517.jpg",
     "static/media/Youssef Erfan Hassan - Grade 9 Transcript.pdf": "/youssef-portfolio/static/media/Youssef Erfan Hassan - Grade 9 Transcript.e4df9156c69b7dc283d2.pdf",
@@ -19,21 +19,21 @@
     "static/media/mun_award.png": "/youssef-portfolio/static/media/mun_award.5604af4dc82a285b31dc.png",
     "static/media/section_6.png": "/youssef-portfolio/static/media/section_6.bd192d014c1dd7750c6d.png",
     "static/media/section_1.png": "/youssef-portfolio/static/media/section_1.9f3bc11201681c93cfbe.png",
+    "static/media/award_2.png": "/youssef-portfolio/static/media/award_2.1c20eb3db713a017fd17.png",
     "static/media/mun_group_photo.jpg": "/youssef-portfolio/static/media/mun_group_photo.9241f706c006932eec4b.jpg",
     "static/media/gr9.png": "/youssef-portfolio/static/media/gr9.b1ad392a15034df10ee1.png",
-    "static/media/award_2.jpg": "/youssef-portfolio/static/media/award_2.dbbcfda9510f12670e75.jpg",
     "static/media/gr11.png": "/youssef-portfolio/static/media/gr11.b569007b77d7deda72eb.png",
     "static/media/gr10.png": "/youssef-portfolio/static/media/gr10.d7d94b278492e32e2f1f.png",
     "static/media/egyptian_flag.png": "/youssef-portfolio/static/media/egyptian_flag.14f43eaea6dea546ba40.png",
     "static/media/bulgarian_flag.png": "/youssef-portfolio/static/media/bulgarian_flag.8d7b2386a8b00bc30c1c.png",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.9568f3c6.css.map": "/youssef-portfolio/static/css/main.9568f3c6.css.map",
-    "main.33bf3486.js.map": "/youssef-portfolio/static/js/main.33bf3486.js.map",
+    "main.51ec2210.css.map": "/youssef-portfolio/static/css/main.51ec2210.css.map",
+    "main.939f5e8a.js.map": "/youssef-portfolio/static/js/main.939f5e8a.js.map",
     "453.1407b060.chunk.js.map": "/youssef-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9568f3c6.css",
-    "static/js/main.33bf3486.js"
+    "static/css/main.51ec2210.css",
+    "static/js/main.939f5e8a.js"
   ]
 }
