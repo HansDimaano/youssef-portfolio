@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.51ec2210.css",
-    "main.js": "/youssef-portfolio/static/js/main.939f5e8a.js",
+    "main.css": "/youssef-portfolio/static/css/main.6849171b.css",
+    "main.js": "/youssef-portfolio/static/js/main.cb380bac.js",
     "static/js/453.1407b060.chunk.js": "/youssef-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/header.png": "/youssef-portfolio/static/media/header.1c6dff33adcf64fd1671.png",
     "static/media/Youssef Erfan Hassan - Grade 11 Transcript.pdf": "/youssef-portfolio/static/media/Youssef Erfan Hassan - Grade 11 Transcript.18052cee0c7112e1a008.pdf",
@@ -28,12 +28,12 @@
     "static/media/bulgarian_flag.png": "/youssef-portfolio/static/media/bulgarian_flag.8d7b2386a8b00bc30c1c.png",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.51ec2210.css.map": "/youssef-portfolio/static/css/main.51ec2210.css.map",
-    "main.939f5e8a.js.map": "/youssef-portfolio/static/js/main.939f5e8a.js.map",
+    "main.6849171b.css.map": "/youssef-portfolio/static/css/main.6849171b.css.map",
+    "main.cb380bac.js.map": "/youssef-portfolio/static/js/main.cb380bac.js.map",
     "453.1407b060.chunk.js.map": "/youssef-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51ec2210.css",
-    "static/js/main.939f5e8a.js"
+    "static/css/main.6849171b.css",
+    "static/js/main.cb380bac.js"
   ]
 }
