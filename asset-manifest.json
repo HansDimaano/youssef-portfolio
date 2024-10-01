@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.f45d8a90.css",
+    "main.css": "/youssef-portfolio/static/css/main.0d8e386a.css",
     "main.js": "/youssef-portfolio/static/js/main.8dea11f7.js",
     "static/js/453.1407b060.chunk.js": "/youssef-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/header2.png": "/youssef-portfolio/static/media/header2.3ad1917a82f370ad5b7a.png",
@@ -34,12 +34,12 @@
     "static/media/Ms. Zaina.pdf": "/youssef-portfolio/static/media/Ms. Zaina.37080c18fcb9b78ae04c.pdf",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.f45d8a90.css.map": "/youssef-portfolio/static/css/main.f45d8a90.css.map",
+    "main.0d8e386a.css.map": "/youssef-portfolio/static/css/main.0d8e386a.css.map",
     "main.8dea11f7.js.map": "/youssef-portfolio/static/js/main.8dea11f7.js.map",
     "453.1407b060.chunk.js.map": "/youssef-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f45d8a90.css",
+    "static/css/main.0d8e386a.css",
     "static/js/main.8dea11f7.js"
   ]
 }
