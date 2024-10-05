@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/youssef-portfolio/static/css/main.b750d6c0.css",
-    "main.js": "/youssef-portfolio/static/js/main.91ad442b.js",
+    "main.js": "/youssef-portfolio/static/js/main.f37581ec.js",
     "static/js/453.ace21015.chunk.js": "/youssef-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Swimming 2.mp4": "/youssef-portfolio/static/media/Swimming 2.911e5660d54f8ef9a6ca.mp4",
     "static/media/Swimming.mp4": "/youssef-portfolio/static/media/Swimming.f9cfac713e03fdab76df.mp4",
@@ -44,14 +44,15 @@
     "static/media/Ms. Beth.pdf": "/youssef-portfolio/static/media/Ms. Beth.26feacbade1088386906.pdf",
     "static/media/Ms. Zaina.pdf": "/youssef-portfolio/static/media/Ms. Zaina.37080c18fcb9b78ae04c.pdf",
     "static/media/swim-deco-1.png": "/youssef-portfolio/static/media/swim-deco-1.e1ebab332b57e9d7a521.png",
+    "static/media/Dr. Desouky.pdf": "/youssef-portfolio/static/media/Dr. Desouky.2228d6f36952bb98fbff.pdf",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
     "main.b750d6c0.css.map": "/youssef-portfolio/static/css/main.b750d6c0.css.map",
-    "main.91ad442b.js.map": "/youssef-portfolio/static/js/main.91ad442b.js.map",
+    "main.f37581ec.js.map": "/youssef-portfolio/static/js/main.f37581ec.js.map",
     "453.ace21015.chunk.js.map": "/youssef-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b750d6c0.css",
-    "static/js/main.91ad442b.js"
+    "static/js/main.f37581ec.js"
   ]
 }
