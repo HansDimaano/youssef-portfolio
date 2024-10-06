@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.3cd68273.css",
-    "main.js": "/youssef-portfolio/static/js/main.55ba97d3.js",
+    "main.css": "/youssef-portfolio/static/css/main.026073b1.css",
+    "main.js": "/youssef-portfolio/static/js/main.e2e9a55e.js",
     "static/js/453.ace21015.chunk.js": "/youssef-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Swimming 2.mp4": "/youssef-portfolio/static/media/Swimming 2.911e5660d54f8ef9a6ca.mp4",
     "static/media/Swimming.mp4": "/youssef-portfolio/static/media/Swimming.f9cfac713e03fdab76df.mp4",
     "static/media/header2.png": "/youssef-portfolio/static/media/header2.3ad1917a82f370ad5b7a.png",
+    "static/media/leadership.png": "/youssef-portfolio/static/media/leadership.f522b78c75bf770878f2.png",
     "static/media/public_speaking.png": "/youssef-portfolio/static/media/public_speaking.6b535682b72522f5a7ca.png",
     "static/media/swimming_6.jpg": "/youssef-portfolio/static/media/swimming_6.b68fb825acb585960ccf.jpg",
     "static/media/tutoring_others.jpg": "/youssef-portfolio/static/media/tutoring_others.754c6dfb751425aa4341.jpg",
     "static/media/acting_3.jpg": "/youssef-portfolio/static/media/acting_3.660da09fb2353a7eb563.jpg",
+    "static/media/committee.jpg": "/youssef-portfolio/static/media/committee.c93df1c9d55037a58c3d.jpg",
     "static/media/basketball_varsity.jpg": "/youssef-portfolio/static/media/basketball_varsity.306ed65ba2f3c7e36a80.jpg",
     "static/media/extracurricular_header.jpg": "/youssef-portfolio/static/media/extracurricular_header.8edfe4cd942f4f609573.jpg",
     "static/media/acting_1.jpg": "/youssef-portfolio/static/media/acting_1.698b1a5f33e2570ce3ee.jpg",
@@ -58,12 +60,12 @@
     "static/media/Dr. Desouky.pdf": "/youssef-portfolio/static/media/Dr. Desouky.2228d6f36952bb98fbff.pdf",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.3cd68273.css.map": "/youssef-portfolio/static/css/main.3cd68273.css.map",
-    "main.55ba97d3.js.map": "/youssef-portfolio/static/js/main.55ba97d3.js.map",
+    "main.026073b1.css.map": "/youssef-portfolio/static/css/main.026073b1.css.map",
+    "main.e2e9a55e.js.map": "/youssef-portfolio/static/js/main.e2e9a55e.js.map",
     "453.ace21015.chunk.js.map": "/youssef-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cd68273.css",
-    "static/js/main.55ba97d3.js"
+    "static/css/main.026073b1.css",
+    "static/js/main.e2e9a55e.js"
   ]
 }
