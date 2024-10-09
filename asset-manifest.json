@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.026073b1.css",
-    "main.js": "/youssef-portfolio/static/js/main.e2e9a55e.js",
+    "main.css": "/youssef-portfolio/static/css/main.bc6c0bba.css",
+    "main.js": "/youssef-portfolio/static/js/main.63c5af94.js",
     "static/js/453.ace21015.chunk.js": "/youssef-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Swimming 2.mp4": "/youssef-portfolio/static/media/Swimming 2.911e5660d54f8ef9a6ca.mp4",
     "static/media/Swimming.mp4": "/youssef-portfolio/static/media/Swimming.f9cfac713e03fdab76df.mp4",
     "static/media/header2.png": "/youssef-portfolio/static/media/header2.3ad1917a82f370ad5b7a.png",
     "static/media/leadership.png": "/youssef-portfolio/static/media/leadership.f522b78c75bf770878f2.png",
+    "static/media/slb_work_1.jpg": "/youssef-portfolio/static/media/slb_work_1.6181b285d0d9b054116e.jpg",
+    "static/media/slb_group_2.jpg": "/youssef-portfolio/static/media/slb_group_2.25050dc90444695d198b.jpg",
     "static/media/public_speaking.png": "/youssef-portfolio/static/media/public_speaking.6b535682b72522f5a7ca.png",
     "static/media/swimming_6.jpg": "/youssef-portfolio/static/media/swimming_6.b68fb825acb585960ccf.jpg",
     "static/media/tutoring_others.jpg": "/youssef-portfolio/static/media/tutoring_others.754c6dfb751425aa4341.jpg",
@@ -15,6 +17,7 @@
     "static/media/basketball_varsity.jpg": "/youssef-portfolio/static/media/basketball_varsity.306ed65ba2f3c7e36a80.jpg",
     "static/media/extracurricular_header.jpg": "/youssef-portfolio/static/media/extracurricular_header.8edfe4cd942f4f609573.jpg",
     "static/media/acting_1.jpg": "/youssef-portfolio/static/media/acting_1.698b1a5f33e2570ce3ee.jpg",
+    "static/media/slb_group_1.jpg": "/youssef-portfolio/static/media/slb_group_1.3a68ee61b35741ecbec3.jpg",
     "static/media/Youssef Erfan Hassan - Grade 11 Transcript.pdf": "/youssef-portfolio/static/media/Youssef Erfan Hassan - Grade 11 Transcript.18052cee0c7112e1a008.pdf",
     "static/media/gcse.jpg": "/youssef-portfolio/static/media/gcse.201734e4ad775012b517.jpg",
     "static/media/acting_2.jpg": "/youssef-portfolio/static/media/acting_2.f5e5fe4e2d5b8ec0debb.jpg",
@@ -27,6 +30,7 @@
     "static/media/section_2.png": "/youssef-portfolio/static/media/section_2.b352f771bf9ad7bf6835.png",
     "static/media/award_4.png": "/youssef-portfolio/static/media/award_4.c383ff077a0da4a9f805.png",
     "static/media/Youssef Erfan Hassan - Grade 10 Transcript.pdf": "/youssef-portfolio/static/media/Youssef Erfan Hassan - Grade 10 Transcript.ed92fd6ad83427bcfaa1.pdf",
+    "static/media/adnoc_certificate.png": "/youssef-portfolio/static/media/adnoc_certificate.0c5178d25b17bf46b405.png",
     "static/media/section_5.png": "/youssef-portfolio/static/media/section_5.89685afa01d57e37e6b0.png",
     "static/media/swimming_2.png": "/youssef-portfolio/static/media/swimming_2.bc9d5f73f27d4f696f3e.png",
     "static/media/section_3.png": "/youssef-portfolio/static/media/section_3.2fd4a7cf691e436714c1.png",
@@ -37,7 +41,9 @@
     "static/media/section_1.png": "/youssef-portfolio/static/media/section_1.9f3bc11201681c93cfbe.png",
     "static/media/Ms. Valentina.pdf": "/youssef-portfolio/static/media/Ms. Valentina.afb2bbcf4745e42b5190.pdf",
     "static/media/award_2.png": "/youssef-portfolio/static/media/award_2.1c20eb3db713a017fd17.png",
+    "static/media/adnoc_group_1.jpg": "/youssef-portfolio/static/media/adnoc_group_1.998a939733fef1c55f52.jpg",
     "static/media/volunteering.jpg": "/youssef-portfolio/static/media/volunteering.b3a4b431ca98d7c024a7.jpg",
+    "static/media/slb_certificate.png": "/youssef-portfolio/static/media/slb_certificate.4d0ac0c098a91040a4d2.png",
     "static/media/mun_group_photo.jpg": "/youssef-portfolio/static/media/mun_group_photo.9241f706c006932eec4b.jpg",
     "static/media/waterpolo_1.png": "/youssef-portfolio/static/media/waterpolo_1.2dda5c6010b627973359.png",
     "static/media/waterpolo_2.jpg": "/youssef-portfolio/static/media/waterpolo_2.d5a85478bd34fc7135ae.jpg",
@@ -60,12 +66,12 @@
     "static/media/Dr. Desouky.pdf": "/youssef-portfolio/static/media/Dr. Desouky.2228d6f36952bb98fbff.pdf",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.026073b1.css.map": "/youssef-portfolio/static/css/main.026073b1.css.map",
-    "main.e2e9a55e.js.map": "/youssef-portfolio/static/js/main.e2e9a55e.js.map",
+    "main.bc6c0bba.css.map": "/youssef-portfolio/static/css/main.bc6c0bba.css.map",
+    "main.63c5af94.js.map": "/youssef-portfolio/static/js/main.63c5af94.js.map",
     "453.ace21015.chunk.js.map": "/youssef-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.026073b1.css",
-    "static/js/main.e2e9a55e.js"
+    "static/css/main.bc6c0bba.css",
+    "static/js/main.63c5af94.js"
   ]
 }
