@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/youssef-portfolio/static/css/main.6d86c39e.css",
-    "main.js": "/youssef-portfolio/static/js/main.3ddcfdff.js",
+    "main.js": "/youssef-portfolio/static/js/main.f7aa903c.js",
     "static/js/453.ace21015.chunk.js": "/youssef-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Swimming 2.mp4": "/youssef-portfolio/static/media/Swimming 2.911e5660d54f8ef9a6ca.mp4",
     "static/media/Swimming.mp4": "/youssef-portfolio/static/media/Swimming.f9cfac713e03fdab76df.mp4",
@@ -56,14 +56,14 @@
     "static/media/gr11.png": "/youssef-portfolio/static/media/gr11.b569007b77d7deda72eb.png",
     "static/media/gr10.png": "/youssef-portfolio/static/media/gr10.d7d94b278492e32e2f1f.png",
     "static/media/swimming_3.jpg": "/youssef-portfolio/static/media/swimming_3.a01f5da22832181a3d45.jpg",
-    "static/media/egyptian_flag.png": "/youssef-portfolio/static/media/egyptian_flag.14f43eaea6dea546ba40.png",
     "static/media/methane.jpg": "/youssef-portfolio/static/media/methane.d10b32614277b316bb19.jpg",
     "static/media/Ms. Paola.pdf": "/youssef-portfolio/static/media/Ms. Paola.b2e698177ccc07f46b2b.pdf",
     "static/media/swimming_header.jpg": "/youssef-portfolio/static/media/swimming_header.e2b51aa7e51c3d01888f.jpg",
-    "static/media/bulgarian_flag.png": "/youssef-portfolio/static/media/bulgarian_flag.8d7b2386a8b00bc30c1c.png",
     "static/media/swimming_4.jpg": "/youssef-portfolio/static/media/swimming_4.cb943031543db68122f3.jpg",
     "static/media/swimming_5.jpg": "/youssef-portfolio/static/media/swimming_5.f666223c98f50199a4eb.jpg",
+    "static/media/bulgarian_flag.gif": "/youssef-portfolio/static/media/bulgarian_flag.0eca92ebf4ffe578100e.gif",
     "static/media/Ms. Beth.pdf": "/youssef-portfolio/static/media/Ms. Beth.26feacbade1088386906.pdf",
+    "static/media/egyptian_flag.gif": "/youssef-portfolio/static/media/egyptian_flag.df7238bc57e48fa368f5.gif",
     "static/media/Ms. Zaina.pdf": "/youssef-portfolio/static/media/Ms. Zaina.37080c18fcb9b78ae04c.pdf",
     "static/media/academy_excellence.jpg": "/youssef-portfolio/static/media/academy_excellence.45de142081e1de09bd45.jpg",
     "static/media/swim-deco-1.png": "/youssef-portfolio/static/media/swim-deco-1.e1ebab332b57e9d7a521.png",
@@ -71,11 +71,11 @@
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
     "main.6d86c39e.css.map": "/youssef-portfolio/static/css/main.6d86c39e.css.map",
-    "main.3ddcfdff.js.map": "/youssef-portfolio/static/js/main.3ddcfdff.js.map",
+    "main.f7aa903c.js.map": "/youssef-portfolio/static/js/main.f7aa903c.js.map",
     "453.ace21015.chunk.js.map": "/youssef-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d86c39e.css",
-    "static/js/main.3ddcfdff.js"
+    "static/js/main.f7aa903c.js"
   ]
 }
