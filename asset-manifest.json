@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.0c0770d7.css",
-    "main.js": "/youssef-portfolio/static/js/main.2b893027.js",
+    "main.css": "/youssef-portfolio/static/css/main.6d86c39e.css",
+    "main.js": "/youssef-portfolio/static/js/main.23c0d881.js",
     "static/js/453.ace21015.chunk.js": "/youssef-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Swimming 2.mp4": "/youssef-portfolio/static/media/Swimming 2.911e5660d54f8ef9a6ca.mp4",
     "static/media/Swimming.mp4": "/youssef-portfolio/static/media/Swimming.f9cfac713e03fdab76df.mp4",
     "static/media/header2.png": "/youssef-portfolio/static/media/header2.3ad1917a82f370ad5b7a.png",
     "static/media/leadership.png": "/youssef-portfolio/static/media/leadership.f522b78c75bf770878f2.png",
     "static/media/slb_work_1.jpg": "/youssef-portfolio/static/media/slb_work_1.6181b285d0d9b054116e.jpg",
+    "static/media/future_goals.png": "/youssef-portfolio/static/media/future_goals.2f3332cf69d5330c0bf8.png",
     "static/media/slb_group_2.jpg": "/youssef-portfolio/static/media/slb_group_2.25050dc90444695d198b.jpg",
+    "static/media/coding_classes.png": "/youssef-portfolio/static/media/coding_classes.b7d2648c6cc6cca1b663.png",
+    "static/media/methane.png": "/youssef-portfolio/static/media/methane.090466d5d71166906777.png",
     "static/media/public_speaking.png": "/youssef-portfolio/static/media/public_speaking.6b535682b72522f5a7ca.png",
+    "static/media/bulgarian_school.png": "/youssef-portfolio/static/media/bulgarian_school.7275b996b98f8bb8d1ac.png",
     "static/media/swimming_6.jpg": "/youssef-portfolio/static/media/swimming_6.b68fb825acb585960ccf.jpg",
     "static/media/tutoring_others.jpg": "/youssef-portfolio/static/media/tutoring_others.754c6dfb751425aa4341.jpg",
     "static/media/acting_3.jpg": "/youssef-portfolio/static/media/acting_3.660da09fb2353a7eb563.jpg",
@@ -66,12 +70,12 @@
     "static/media/Dr. Desouky.pdf": "/youssef-portfolio/static/media/Dr. Desouky.2228d6f36952bb98fbff.pdf",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.0c0770d7.css.map": "/youssef-portfolio/static/css/main.0c0770d7.css.map",
-    "main.2b893027.js.map": "/youssef-portfolio/static/js/main.2b893027.js.map",
+    "main.6d86c39e.css.map": "/youssef-portfolio/static/css/main.6d86c39e.css.map",
+    "main.23c0d881.js.map": "/youssef-portfolio/static/js/main.23c0d881.js.map",
     "453.ace21015.chunk.js.map": "/youssef-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c0770d7.css",
-    "static/js/main.2b893027.js"
+    "static/css/main.6d86c39e.css",
+    "static/js/main.23c0d881.js"
   ]
 }
