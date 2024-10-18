@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.6d86c39e.css",
-    "main.js": "/youssef-portfolio/static/js/main.f7aa903c.js",
+    "main.css": "/youssef-portfolio/static/css/main.aef37eee.css",
+    "main.js": "/youssef-portfolio/static/js/main.4b4ed64f.js",
     "static/js/453.ace21015.chunk.js": "/youssef-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Swimming 2.mp4": "/youssef-portfolio/static/media/Swimming 2.911e5660d54f8ef9a6ca.mp4",
     "static/media/Swimming.mp4": "/youssef-portfolio/static/media/Swimming.f9cfac713e03fdab76df.mp4",
@@ -69,13 +69,14 @@
     "static/media/swim-deco-1.png": "/youssef-portfolio/static/media/swim-deco-1.e1ebab332b57e9d7a521.png",
     "static/media/Dr. Desouky.pdf": "/youssef-portfolio/static/media/Dr. Desouky.2228d6f36952bb98fbff.pdf",
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
+    "static/media/linkedin_logo.png": "/youssef-portfolio/static/media/linkedin_logo.f249b38224ca41a0b909.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.6d86c39e.css.map": "/youssef-portfolio/static/css/main.6d86c39e.css.map",
-    "main.f7aa903c.js.map": "/youssef-portfolio/static/js/main.f7aa903c.js.map",
+    "main.aef37eee.css.map": "/youssef-portfolio/static/css/main.aef37eee.css.map",
+    "main.4b4ed64f.js.map": "/youssef-portfolio/static/js/main.4b4ed64f.js.map",
     "453.ace21015.chunk.js.map": "/youssef-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d86c39e.css",
-    "static/js/main.f7aa903c.js"
+    "static/css/main.aef37eee.css",
+    "static/js/main.4b4ed64f.js"
   ]
 }
