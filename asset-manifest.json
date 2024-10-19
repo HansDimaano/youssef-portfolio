@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.7f0789b6.css",
-    "main.js": "/youssef-portfolio/static/js/main.18dca39c.js",
+    "main.css": "/youssef-portfolio/static/css/main.277f8f92.css",
+    "main.js": "/youssef-portfolio/static/js/main.89ecdead.js",
     "static/js/453.ace21015.chunk.js": "/youssef-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Swimming 2.mp4": "/youssef-portfolio/static/media/Swimming 2.911e5660d54f8ef9a6ca.mp4",
     "static/media/Swimming.mp4": "/youssef-portfolio/static/media/Swimming.f9cfac713e03fdab76df.mp4",
@@ -53,6 +53,7 @@
     "static/media/waterpolo_2.jpg": "/youssef-portfolio/static/media/waterpolo_2.d5a85478bd34fc7135ae.jpg",
     "static/media/football_varsity.jpg": "/youssef-portfolio/static/media/football_varsity.de4178d1b3dd00d60f1b.jpg",
     "static/media/gr9.png": "/youssef-portfolio/static/media/gr9.b1ad392a15034df10ee1.png",
+    "static/media/ielts.png": "/youssef-portfolio/static/media/ielts.9c4132e19f7e90b844de.png",
     "static/media/gr11.png": "/youssef-portfolio/static/media/gr11.b569007b77d7deda72eb.png",
     "static/media/gr10.png": "/youssef-portfolio/static/media/gr10.d7d94b278492e32e2f1f.png",
     "static/media/swimming_3.jpg": "/youssef-portfolio/static/media/swimming_3.a01f5da22832181a3d45.jpg",
@@ -71,12 +72,12 @@
     "static/media/trophy.png": "/youssef-portfolio/static/media/trophy.5fe72debf33b41471a72.png",
     "static/media/linkedin_logo.png": "/youssef-portfolio/static/media/linkedin_logo.f249b38224ca41a0b909.png",
     "index.html": "/youssef-portfolio/index.html",
-    "main.7f0789b6.css.map": "/youssef-portfolio/static/css/main.7f0789b6.css.map",
-    "main.18dca39c.js.map": "/youssef-portfolio/static/js/main.18dca39c.js.map",
+    "main.277f8f92.css.map": "/youssef-portfolio/static/css/main.277f8f92.css.map",
+    "main.89ecdead.js.map": "/youssef-portfolio/static/js/main.89ecdead.js.map",
     "453.ace21015.chunk.js.map": "/youssef-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f0789b6.css",
-    "static/js/main.18dca39c.js"
+    "static/css/main.277f8f92.css",
+    "static/js/main.89ecdead.js"
   ]
 }
